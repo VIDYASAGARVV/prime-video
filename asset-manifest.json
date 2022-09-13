@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/prime-video/static/css/main.ef2f4bda.chunk.css",
+    "main.js": "/prime-video/static/js/main.0410f115.chunk.js",
+    "main.js.map": "/prime-video/static/js/main.0410f115.chunk.js.map",
+    "runtime-main.js": "/prime-video/static/js/runtime-main.228df35e.js",
+    "runtime-main.js.map": "/prime-video/static/js/runtime-main.228df35e.js.map",
+    "static/css/2.2269dab0.chunk.css": "/prime-video/static/css/2.2269dab0.chunk.css",
+    "static/js/2.39509d99.chunk.js": "/prime-video/static/js/2.39509d99.chunk.js",
+    "static/js/2.39509d99.chunk.js.map": "/prime-video/static/js/2.39509d99.chunk.js.map",
+    "index.html": "/prime-video/index.html",
+    "static/css/2.2269dab0.chunk.css.map": "/prime-video/static/css/2.2269dab0.chunk.css.map",
+    "static/css/main.ef2f4bda.chunk.css.map": "/prime-video/static/css/main.ef2f4bda.chunk.css.map",
+    "static/js/2.39509d99.chunk.js.LICENSE.txt": "/prime-video/static/js/2.39509d99.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/prime-video/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.228df35e.js",
+    "static/css/2.2269dab0.chunk.css",
+    "static/js/2.39509d99.chunk.js",
+    "static/css/main.ef2f4bda.chunk.css",
+    "static/js/main.0410f115.chunk.js"
+  ]
+}
